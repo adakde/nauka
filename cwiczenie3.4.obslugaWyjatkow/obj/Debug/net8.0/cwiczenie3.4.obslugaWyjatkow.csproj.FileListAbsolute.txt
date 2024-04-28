@@ -1,0 +1,15 @@
+C:\Users\48577\nauka\cwiczenie3.4.obslugaWyjatkow\obj\Debug\net8.0\cwiczenie3.4.obslugaWyjatkow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48577\nauka\cwiczenie3.4.obslugaWyjatkow\obj\Debug\net8.0\cwiczenie3.4.obslugaWyjatkow.AssemblyInfoInputs.cache
+C:\Users\48577\nauka\cwiczenie3.4.obslugaWyjatkow\obj\Debug\net8.0\cwiczenie3.4.obslugaWyjatkow.AssemblyInfo.cs
+C:\Users\48577\nauka\cwiczenie3.4.obslugaWyjatkow\obj\Debug\net8.0\cwiczenie3.4.obslugaWyjatkow.csproj.CoreCompileInputs.cache
+C:\Users\48577\nauka\cwiczenie3.4.obslugaWyjatkow\obj\Debug\net8.0\cwiczenie3.4.obslugaWyjatkow.sourcelink.json
+C:\Users\48577\nauka\cwiczenie3.4.obslugaWyjatkow\bin\Debug\net8.0\cwiczenie3.4.obslugaWyjatkow.exe
+C:\Users\48577\nauka\cwiczenie3.4.obslugaWyjatkow\bin\Debug\net8.0\cwiczenie3.4.obslugaWyjatkow.deps.json
+C:\Users\48577\nauka\cwiczenie3.4.obslugaWyjatkow\bin\Debug\net8.0\cwiczenie3.4.obslugaWyjatkow.runtimeconfig.json
+C:\Users\48577\nauka\cwiczenie3.4.obslugaWyjatkow\bin\Debug\net8.0\cwiczenie3.4.obslugaWyjatkow.dll
+C:\Users\48577\nauka\cwiczenie3.4.obslugaWyjatkow\bin\Debug\net8.0\cwiczenie3.4.obslugaWyjatkow.pdb
+C:\Users\48577\nauka\cwiczenie3.4.obslugaWyjatkow\obj\Debug\net8.0\cwiczenie3.4.obslugaWyjatkow.dll
+C:\Users\48577\nauka\cwiczenie3.4.obslugaWyjatkow\obj\Debug\net8.0\refint\cwiczenie3.4.obslugaWyjatkow.dll
+C:\Users\48577\nauka\cwiczenie3.4.obslugaWyjatkow\obj\Debug\net8.0\cwiczenie3.4.obslugaWyjatkow.pdb
+C:\Users\48577\nauka\cwiczenie3.4.obslugaWyjatkow\obj\Debug\net8.0\cwiczenie3.4.obslugaWyjatkow.genruntimeconfig.cache
+C:\Users\48577\nauka\cwiczenie3.4.obslugaWyjatkow\obj\Debug\net8.0\ref\cwiczenie3.4.obslugaWyjatkow.dll
