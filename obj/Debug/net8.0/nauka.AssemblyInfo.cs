@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nauka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dd162265bb1d336ca2a4770217fc53abbd86827")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e1892afe4300869fc3acde2e823fe129b43b3a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("nauka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nauka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
