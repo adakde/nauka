@@ -2,11 +2,11 @@
     if(i %3 == 0 && i %5 == 0) {
         Console.WriteLine("FizzBuzz");
     }
-    else if(i %3 == 0) {
+    else if(i %5 == 0) {
         Console.WriteLine("Buzz");
         }
 
-    else if(i %5 == 0){
+    else if(i %3 == 0){
         Console.WriteLine("Fizz");
     }
     else {

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\48577\\nauka\\fizzbuzz\\FizzBuzz.csproj",
-      "projectName": "FizzBuzz",
-      "projectPath": "C:\\Users\\48577\\nauka\\fizzbuzz\\FizzBuzz.csproj",
+      "projectUniqueName": "C:\\Users\\48577\\nauka\\cwiczenie3.4.obslugaWyjatkow\\cwiczenie3.4.obslugaWyjatkow.csproj",
+      "projectName": "cwiczenie3.4.obslugaWyjatkow",
+      "projectPath": "C:\\Users\\48577\\nauka\\cwiczenie3.4.obslugaWyjatkow\\cwiczenie3.4.obslugaWyjatkow.csproj",
       "packagesPath": "C:\\Users\\48577\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\48577\\nauka\\fizzbuzz\\obj\\",
+      "outputPath": "C:\\Users\\48577\\nauka\\cwiczenie3.4.obslugaWyjatkow\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\48577\\AppData\\Roaming\\NuGet\\NuGet.Config"
