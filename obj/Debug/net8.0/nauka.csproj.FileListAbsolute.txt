@@ -1,0 +1,14 @@
+C:\Users\48577\nauka\bin\Debug\net8.0\nauka.exe
+C:\Users\48577\nauka\bin\Debug\net8.0\nauka.deps.json
+C:\Users\48577\nauka\bin\Debug\net8.0\nauka.runtimeconfig.json
+C:\Users\48577\nauka\bin\Debug\net8.0\nauka.dll
+C:\Users\48577\nauka\bin\Debug\net8.0\nauka.pdb
+C:\Users\48577\nauka\obj\Debug\net8.0\nauka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48577\nauka\obj\Debug\net8.0\nauka.AssemblyInfoInputs.cache
+C:\Users\48577\nauka\obj\Debug\net8.0\nauka.AssemblyInfo.cs
+C:\Users\48577\nauka\obj\Debug\net8.0\nauka.csproj.CoreCompileInputs.cache
+C:\Users\48577\nauka\obj\Debug\net8.0\nauka.dll
+C:\Users\48577\nauka\obj\Debug\net8.0\refint\nauka.dll
+C:\Users\48577\nauka\obj\Debug\net8.0\nauka.pdb
+C:\Users\48577\nauka\obj\Debug\net8.0\nauka.genruntimeconfig.cache
+C:\Users\48577\nauka\obj\Debug\net8.0\ref\nauka.dll
