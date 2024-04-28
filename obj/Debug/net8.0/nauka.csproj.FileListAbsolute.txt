@@ -12,3 +12,4 @@ C:\Users\48577\nauka\obj\Debug\net8.0\refint\nauka.dll
 C:\Users\48577\nauka\obj\Debug\net8.0\nauka.pdb
 C:\Users\48577\nauka\obj\Debug\net8.0\nauka.genruntimeconfig.cache
 C:\Users\48577\nauka\obj\Debug\net8.0\ref\nauka.dll
+C:\Users\48577\nauka\obj\Debug\net8.0\nauka.sourcelink.json
