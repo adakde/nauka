@@ -1,0 +1,25 @@
+﻿// // 605. Can Place Flowers
+// Easy
+// Topics
+// Companies
+// You have a long flowerbed in which some of the plots are planted, and some are not. However, flowers cannot be planted in adjacent plots.
+
+// Given an integer array flowerbed containing 0's and 1's, where 0 means empty and 1 means not empty, and an integer n, return true if n new flowers can be planted in the flowerbed without violating the no-adjacent-flowers rule and false otherwise.
+
+ 
+public class Solution {
+    public bool CanPlaceFlowers(int[] flowerbed, int n) {
+        for (int i = 0; i < flowerbed.Length; i++) {
+            if (flowerbed[i] == 0) {
+                // Sprawdzamy czy poprzedni i następny element są równy 0,
+                // wtedy możemy umieścić kwiat.
+                if ((i == 0 || flowerbed[i - 1] == 0) && (i == flowerbed.Length - 1 || flowerbed[i + 1] == 0)) {
+                    flowerbed[i] = 1; // Umieszczamy kwiat na bieżącym łóżku.
+                    n--; // Zmniejszamy liczbę kwiatów, które jeszcze należy umieścić.
+                }
+            }
+        }
+        // Jeśli udało się umieścić wszystkie kwiaty, zwracamy true.
+        return n <= 0;
+    }
+}
