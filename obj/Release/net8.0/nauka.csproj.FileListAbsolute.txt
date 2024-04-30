@@ -1,0 +1,5 @@
+C:\Users\48577\nauka\obj\Release\net8.0\nauka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48577\nauka\obj\Release\net8.0\nauka.AssemblyInfoInputs.cache
+C:\Users\48577\nauka\obj\Release\net8.0\nauka.AssemblyInfo.cs
+C:\Users\48577\nauka\obj\Release\net8.0\nauka.csproj.CoreCompileInputs.cache
+C:\Users\48577\nauka\obj\Release\net8.0\nauka.sourcelink.json
