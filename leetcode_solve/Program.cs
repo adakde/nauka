@@ -1,1 +1,1 @@
-﻿// Rozwiazywanie problemy z leetcode !
+﻿// Rozwiazywanie problemy z leetcode!
